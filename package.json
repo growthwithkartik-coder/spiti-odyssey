@@ -1,0 +1,18 @@
+{
+  "name": "spiti-odyssey-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Spiti Odyssey — Cinematic Edition. New Year Mountain Party & Trek website (static multi-page, Node build, no dependencies).",
+  "type": "module",
+  "scripts": {
+    "dev": "node tools/build.mjs && node tools/serve.mjs",
+    "start": "node tools/serve.mjs",
+    "build": "node tools/build.mjs",
+    "build:local-images": "node -e \"process.env.IMAGE_MODE='local';import('./tools/build.mjs')\"",
+    "fetch-images": "node tools/fetch-images.mjs",
+    "api": "node server/server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

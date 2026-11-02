@@ -1,0 +1,1642 @@
+[
+  {
+    "id": "delhi-night-traffic",
+    "usedOn": "/",
+    "place": "Night traffic, Delhi",
+    "note": null,
+    "author": "Gabriele Giuseppini",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Delhi's_Night_Traffic_-_panoramio.jpg",
+    "original": "3072x2304"
+  },
+  {
+    "id": "delhi-dusk-traffic",
+    "usedOn": null,
+    "place": "Dusk over New Delhi traffic",
+    "note": null,
+    "author": "Mbhushan21",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:New_Delhi_Traffic_Congestion_.jpg",
+    "original": "4032x3024"
+  },
+  {
+    "id": "delhi-india-gate-night",
+    "usedOn": "itinerary",
+    "place": "India Gate at night, New Delhi",
+    "note": null,
+    "author": "AmitBeniwal",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_Gate_night_view.JPG",
+    "original": "2592x1944"
+  },
+  {
+    "id": "kufri-snow-hills",
+    "usedOn": "destinations/kufri",
+    "place": "Snow on the hills at Kufri",
+    "note": null,
+    "author": "Jeyasree S.B",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snow-Kufri_hills.jpg",
+    "original": "4608x3456"
+  },
+  {
+    "id": "kufri-peaks-peeking",
+    "usedOn": "destinations/kufri",
+    "place": "Himalayan peaks seen from Kufri",
+    "note": null,
+    "author": "Courteous mafia",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Peeking_Himalyas_Kufri.jpg",
+    "original": "4608x3456"
+  },
+  {
+    "id": "kufri-himalayan-range",
+    "usedOn": "/",
+    "place": "The snow range from Kufri",
+    "note": null,
+    "author": "Sirshendu Biswas",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Himalayan_mountains%2C_Kufri%2C_Himachal_Pradesh%2C_India_%282017%29.jpg",
+    "original": "5472x2849"
+  },
+  {
+    "id": "kufri-temple-snow",
+    "usedOn": "gallery",
+    "place": "Hilltop temple at Kufri in snow",
+    "note": null,
+    "author": "Jayasree Sengupta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Temple_at_Kufri.jpg",
+    "original": "1800x1200"
+  },
+  {
+    "id": "kufri-road",
+    "usedOn": "itinerary",
+    "place": "The road to Kufri, Shimla district",
+    "note": null,
+    "author": "Rajudbg",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Road_to_Kufri%2C_Shimla.jpg",
+    "original": "4898x3265"
+  },
+  {
+    "id": "shimla-night-lights",
+    "usedOn": "destinations/kufri",
+    "place": "Shimla’s lights after dark",
+    "note": "Shimla sits on the hill road between Delhi and Kufri.",
+    "author": "Dinesh Valke",
+    "licence": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Simla_night_lights_%282558230817%29.jpg",
+    "original": "2048x1536"
+  },
+  {
+    "id": "kalpa-kailash-golden",
+    "usedOn": "/",
+    "place": "First light on the Kinnaur Kailash range, seen from Kalpa",
+    "note": null,
+    "author": "Goutam1962",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kinnaur_Kailash_from_Kalpa_on_june_2015.jpg",
+    "original": "3000x1290"
+  },
+  {
+    "id": "kalpa-village-peaks",
+    "usedOn": null,
+    "place": "Kalpa village beneath the snow peaks",
+    "note": null,
+    "author": "Sapna Sony",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalpa_Village.jpg",
+    "original": "4608x3456"
+  },
+  {
+    "id": "kalpa-kailash-jorkanden",
+    "usedOn": "destinations/kalpa",
+    "place": "Kinnaur Kailash and Jorkanden from Kalpa",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kinnaur_kailash%286050m%29_and_Jorkanden_%286473_m%29_from_Kalpa_photographed_By_Sumita_Roy.jpg",
+    "original": "3600x2400"
+  },
+  {
+    "id": "kalpa-morning-kailash",
+    "usedOn": "itinerary",
+    "place": "Morning on Kinner Kailash",
+    "note": null,
+    "author": "Narender Sharma, Blue Particle Solutions",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Morning_View_of_Mount_Kinner_Kailash.jpg",
+    "original": "3264x1836"
+  },
+  {
+    "id": "kalpa-range-ridge",
+    "usedOn": "destinations/kalpa",
+    "place": "The Kinnaur Kailash range at Kalpa",
+    "note": null,
+    "author": "Rahulraees",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kinnar_Kailash_range_at_Kalpa.jpg",
+    "original": "4160x2340"
+  },
+  {
+    "id": "kalpa-chini-kila",
+    "usedOn": "gallery",
+    "place": "Chini village and its tower, Kalpa",
+    "note": null,
+    "author": "Amanpanta1990",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chini_village_and_Kila_%28Kalpa%29%2C_Kinnaur%2C_Himachal_Pradesh_01.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kalpa-light",
+    "usedOn": "destinations/kalpa",
+    "place": "Light moving across the range, Kalpa",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalpa-49a-Licht-2016-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kalpa-waking",
+    "usedOn": "destinations/kalpa",
+    "place": "Kalpa waking up",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalpa-49b-Morgenerwachen-2016-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kalpa-roghi",
+    "usedOn": "destinations/kalpa",
+    "place": "Roghi village, above Kalpa",
+    "note": null,
+    "author": "Rahulraees",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roghi_village_kalpa.jpg",
+    "original": "4160x2340"
+  },
+  {
+    "id": "kalpa-eternal-hills",
+    "usedOn": "destinations/kalpa",
+    "place": "Kinnaur ridgelines near Kalpa",
+    "note": null,
+    "author": "Tiyasha Purohit",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Eternal_hills.jpg",
+    "original": "4320x3240"
+  },
+  {
+    "id": "kalpa-orchard",
+    "usedOn": "destinations/kalpa",
+    "place": "Orchards and peaks, Kalpa",
+    "note": null,
+    "author": "Gili Chupak",
+    "licence": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalpa_Himachal.jpg",
+    "original": "2048x1536"
+  },
+  {
+    "id": "kalpa-town",
+    "usedOn": "stays",
+    "place": "Kalpa on its shelf above the valley",
+    "note": null,
+    "author": "Ashok Neelakanta",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kalpa_%286082342708%29.jpg",
+    "original": "4752x3168"
+  },
+  {
+    "id": "peo-kailash-peak",
+    "usedOn": "destinations/kalpa",
+    "place": "Kinnaur Kailash peak and Jorkanden from Reckong Peo",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Recong_Peo-22-Kinnaur_Kailash_Peak-Jorkanden-2016-gje.jpg",
+    "original": "5184x3128"
+  },
+  {
+    "id": "peo-pink-hour",
+    "usedOn": "gallery",
+    "place": "Pink hour at Reckong Peo, just below Kalpa",
+    "note": null,
+    "author": "Pavan Lulla",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pink_hour_%40_Peo_-_panoramio.jpg",
+    "original": "3129x1984"
+  },
+  {
+    "id": "peo-sunset-alpenglow",
+    "usedOn": "/",
+    "place": "Last light on the peaks above Reckong Peo",
+    "note": null,
+    "author": "Eshank Sehgal",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Reckong_Peo.jpg",
+    "original": "2048x1536"
+  },
+  {
+    "id": "sangla-snowy-morning",
+    "usedOn": "new-year-escape",
+    "place": "A snowy morning in Sangla, Kinnaur",
+    "note": "Sangla is a neighbouring Kinnaur valley, not a stop on this route — shown for winter character.",
+    "author": "UnpetitproleX",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snowy_morning_in_Sangla%2C_Himachal_Pradesh%2C_India.jpg",
+    "original": "7936x3968"
+  },
+  {
+    "id": "baspa-under-snow",
+    "usedOn": "new-year-escape",
+    "place": "The Baspa valley under snow, Kinnaur",
+    "note": "The Baspa valley joins the Sutlej below Kalpa; not a stop on this route.",
+    "author": "UnpetitproleX",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baspa_Valley_under_snow%2C_Kinnaur%2C_Himachal_Pradesh%2C_India.jpg",
+    "original": "7987x5741"
+  },
+  {
+    "id": "road-satluj-nh",
+    "usedOn": "gallery",
+    "place": "The Hindustan–Tibet road along the Sutlej, Kinnaur",
+    "note": null,
+    "author": "Manojkhurana",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NH-22%2C_NATIONAL_HIGHWAY_22%2C_HINDUSTAN-TIBET_ROAD%2C_ALONG_RIVER_SATLUJ%2C_KINNAUR_DISTRICT%2C_HIMACHAL_PRADESH%2C_INDIA.JPG",
+    "original": "2560x1920"
+  },
+  {
+    "id": "road-kinnaur-cliff",
+    "usedOn": "gallery",
+    "place": "The road cut into the Kinnaur cliffs",
+    "note": null,
+    "author": "Anusharma",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kinnaur_way.JPG",
+    "original": "4000x3000"
+  },
+  {
+    "id": "road-karcham",
+    "usedOn": "itinerary",
+    "place": "The Sutlej at Karcham, Kinnaur",
+    "note": null,
+    "author": "Supriya Joon",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Karcham_-_DSC_0769.jpg",
+    "original": "6016x4000"
+  },
+  {
+    "id": "road-khab-confluence",
+    "usedOn": "trip-details",
+    "place": "The Sutlej at Khab, where the Spiti river joins it",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khab-22-Satluj-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "road-khab-spiti-road",
+    "usedOn": null,
+    "place": "The road above the Spiti river near Khab",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Khab-38-Spiti_river_road-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "road-sutlej-baspa",
+    "usedOn": "destinations/kalpa",
+    "place": "Where the Baspa meets the Sutlej, Kinnaur",
+    "note": null,
+    "author": "Rahulraees",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shatadru_river_meets_Baspa.jpg",
+    "original": "4160x2340"
+  },
+  {
+    "id": "road-sutlej-gorge",
+    "usedOn": "itinerary",
+    "place": "Sutlej gorge and rapids, lower valley",
+    "note": null,
+    "author": "VasuVR",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SDHP-3510_Sutlej_river_gorge_and_rapids_near_Tattapani.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "road-to-spiti",
+    "usedOn": "the-odyssey",
+    "place": "On the road into Spiti",
+    "note": null,
+    "author": "Carlos Adampol Galindo",
+    "licence": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Camino_a_Spiti_valley%2C_Himachal_Pradesh_%288512880323%29.jpg",
+    "original": "2160x1440"
+  },
+  {
+    "id": "road-spiti-open",
+    "usedOn": "the-odyssey",
+    "place": "Open road through the Spiti valley",
+    "note": null,
+    "author": "FOCUSUPAKHIL",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SPITI_ROAD.jpg",
+    "original": "4496x3000"
+  },
+  {
+    "id": "nako-lake-village",
+    "usedOn": "gallery",
+    "place": "Nako lake and village",
+    "note": null,
+    "author": "Snotch",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nako_Lake_and_Nako_Village%2C_Himachal_Pradesh.jpg",
+    "original": "7387x4900"
+  },
+  {
+    "id": "nako-reflection",
+    "usedOn": "experience",
+    "place": "Peaks reflected in Nako lake",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Reflection_of_Indian_Himalayan_Peaks_on_Nako_Lake_Himachal_Pradesh_India.jpg",
+    "original": "3264x2448"
+  },
+  {
+    "id": "nako-lake-wide",
+    "usedOn": "itinerary",
+    "place": "Nako lake, upper Kinnaur",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nako_Lake_Kinnaur_Himachal_Jun18_D72_6798.jpg",
+    "original": "5730x3941"
+  },
+  {
+    "id": "nako-village",
+    "usedOn": "experience",
+    "place": "Stone houses of Nako village",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nako_Village.jpg",
+    "original": "3264x2448"
+  },
+  {
+    "id": "nako-morning",
+    "usedOn": "gallery",
+    "place": "Morning above Nako",
+    "note": null,
+    "author": "Rakesh Kumar",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nako_mroning.jpg",
+    "original": "4032x3024"
+  },
+  {
+    "id": "tabo-monastery",
+    "usedOn": "gallery",
+    "place": "Tabo Monastery",
+    "note": null,
+    "author": "Narender9",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tabo_Monastery.jpg",
+    "original": "3456x2304"
+  },
+  {
+    "id": "tabo-surroundings",
+    "usedOn": "contact",
+    "place": "Tabo Monastery and the valley around it",
+    "note": null,
+    "author": "Parth.rkt",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tabo_monastery_and_surroundings_2.jpg",
+    "original": "2896x1944"
+  },
+  {
+    "id": "tabo-stupas",
+    "usedOn": null,
+    "place": "Stupas at Tabo Monastery",
+    "note": null,
+    "author": "Aimy Dhankar",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stupas_at_Tabo_Monastery.JPG",
+    "original": "4608x3456"
+  },
+  {
+    "id": "tabo-aerial",
+    "usedOn": "itinerary",
+    "place": "Tabo village and monastery from above",
+    "note": null,
+    "author": "Trina Singha Roy",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Arial_View_of_Tabo_Monastery%2C_World_Heritage_Site.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "tabo-from-top",
+    "usedOn": "experience",
+    "place": "Tabo Monastery from the hillside",
+    "note": null,
+    "author": "Manish Pathak",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tabo_monastery_from_top.jpg",
+    "original": "3920x2204"
+  },
+  {
+    "id": "tabo-mud-walls",
+    "usedOn": "experience",
+    "place": "The mud-walled halls of Tabo",
+    "note": null,
+    "author": "Mdipa",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tabo_mud_monastery.jpg",
+    "original": "4928x2788"
+  },
+  {
+    "id": "tabo-inside",
+    "usedOn": "experience",
+    "place": "Inside the Tabo Monastery complex",
+    "note": null,
+    "author": "Manish Pathak",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Inside_Tabo_monastery_1.jpg",
+    "original": "3920x2204"
+  },
+  {
+    "id": "dhankar-panorama",
+    "usedOn": "the-odyssey",
+    "place": "The Spiti valley from Dhankar",
+    "note": "Dhankar sits above the valley road between Tabo and Kaza; a stop there is not confirmed.",
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dhankar_Gompa-06-Flusstal-Panorama-gje.jpg",
+    "original": "8601x3461"
+  },
+  {
+    "id": "dhankar-fort",
+    "usedOn": "gallery",
+    "place": "Dhankar monastery-fort on its ridge",
+    "note": "A stop at Dhankar is not part of the confirmed itinerary.",
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dhankar_Gompa-20-Klosterburg-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "lingti-bridge",
+    "usedOn": "experience",
+    "place": "Suspension bridge over the Lingti river, Spiti",
+    "note": null,
+    "author": "Mike Shaw",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lingti_River_suspension_bridge%2C_near_Rama%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India_02.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "mane-kogma",
+    "usedOn": "experience",
+    "place": "Mane village, Spiti valley",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mane_Kogma_Spiti_Himachal_Jun18_D72_6922.jpg",
+    "original": "5790x3860"
+  },
+  {
+    "id": "kaza-valley",
+    "usedOn": "gallery",
+    "place": "The Spiti river below Kaza",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaza-20-Spiti-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kaza-nh505",
+    "usedOn": "gallery",
+    "place": "The braided Spiti river and the valley road beyond Kaza",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:NH505_Spiti_Kaza_Losar_Jun18_D72_7800.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "kaza-river",
+    "usedOn": "destinations/kaza",
+    "place": "The Spiti river at Kaza",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spiti_River_Kaza_Himachal_Jun18_D72_7232.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "kaza-gorge",
+    "usedOn": "destinations/kaza",
+    "place": "Eroded pillars above the Spiti gorge",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spiti_Gorge_Kaza_Losar_Jun18_D72_7818.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "kaza-floodplain",
+    "usedOn": "destinations/kaza",
+    "place": "The wide floodplain at Kaza",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaza-21-Flusstal-2016-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kaza-sakya-monastery",
+    "usedOn": "destinations/kaza",
+    "place": "The Sakya monastery in Kaza",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakya_Kaza_Monastery.jpg",
+    "original": "2592x1944"
+  },
+  {
+    "id": "kaza-shrines",
+    "usedOn": "experience",
+    "place": "Hillside shrines and prayer flags, Kaza",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaza-12-Bergheiligtuemer-gje.jpg",
+    "original": "4955x3178"
+  },
+  {
+    "id": "kaza-mani-stones",
+    "usedOn": "destinations/kaza",
+    "place": "Carved mani stones in old Kaza",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaza-36-Unterstadt-Manisteine-2016-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kaza-approach",
+    "usedOn": "gallery",
+    "place": "Approaching Kaza along the river",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kaza-02-Flusstal-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "key-hill",
+    "usedOn": "itinerary",
+    "place": "Key Monastery on its hill",
+    "note": null,
+    "author": "SilverBirch",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Key_Monastery%2C_Spiti_Valley.JPG",
+    "original": "2816x2112"
+  },
+  {
+    "id": "key-panorama",
+    "usedOn": "itinerary",
+    "place": "Key Monastery and the Spiti valley, panorama",
+    "note": null,
+    "author": "TheWanderer7562",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Key_Monastery.jpg",
+    "original": "7565x2569"
+  },
+  {
+    "id": "key-snow",
+    "usedOn": "new-year-escape",
+    "place": "Key Monastery in winter snow",
+    "note": null,
+    "author": "Ksuryawanshi",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kee_monastery_Spiti_Valley.JPG",
+    "original": "3264x2448"
+  },
+  {
+    "id": "key-may",
+    "usedOn": "/",
+    "place": "Key Monastery’s stacked buildings",
+    "note": null,
+    "author": "Rohit Sharma",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Key_Monastery%2C_Spiti_Valley_May_2016.jpg",
+    "original": "3189x2463"
+  },
+  {
+    "id": "key-gompa-valley",
+    "usedOn": "destinations/kaza",
+    "place": "Key Monastery above the Spiti valley",
+    "note": null,
+    "author": "Arup1981",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kye_Gompa_and_Spiti_Valley.jpg",
+    "original": "3456x1816"
+  },
+  {
+    "id": "key-riverbed",
+    "usedOn": "destinations/kaza",
+    "place": "The river valley seen from Key Monastery",
+    "note": null,
+    "author": "Gerd Eichmann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kye_Gompa-22-Flusstal-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "key-wide",
+    "usedOn": "destinations/kaza",
+    "place": "Key Monastery beneath the cliffs",
+    "note": null,
+    "author": "Shivendujha",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Key_Monastery_Spiti.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "key-view-2004",
+    "usedOn": "gallery",
+    "place": "Rooftop view from Key Monastery",
+    "note": null,
+    "author": "John Hill",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Spiti_Valley_from_Key_Monastery%2C_2004.jpg",
+    "original": "2304x1728"
+  },
+  {
+    "id": "key-steps",
+    "usedOn": "destinations/kaza",
+    "place": "Steps inside Key Monastery",
+    "note": null,
+    "author": "Mike Shaw",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Steps_in_Key_Gompa_monastery%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "chicham-bridge-east",
+    "usedOn": "gallery",
+    "place": "Chicham Bridge across its gorge",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicham_Bridge_East_Spiti_Jun18_D72_7453.jpg",
+    "original": "5892x3928"
+  },
+  {
+    "id": "chicham-bridge-se",
+    "usedOn": "destinations/kaza",
+    "place": "Chicham Bridge from the south-east",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chicham_Bridge_SE_Spiti_Jun18_D72_7401.jpg",
+    "original": "5433x3622"
+  },
+  {
+    "id": "kibber-snow",
+    "usedOn": "new-year-escape",
+    "place": "Kibber village in winter",
+    "note": "Kibber is on the Chicham road; a village stop there is not confirmed.",
+    "author": "Ksuryawanshi",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kibber_village%2C_Spiti_valley%2C_Himachal_Pradesh.JPG",
+    "original": "3264x2448"
+  },
+  {
+    "id": "kibber-houses",
+    "usedOn": "gallery",
+    "place": "Traditional whitewashed houses, Kibber",
+    "note": "Kibber is close to Kaza; a stop there is not confirmed.",
+    "author": "Gerd Eichmann",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kibber-19c-traditionelle_Haeuser-2016-gje.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "kibber-kanamo",
+    "usedOn": "destinations",
+    "place": "Peaks south of Kibber, upper Spiti",
+    "note": null,
+    "author": "Timothy A. Gonsalves",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kanamo_Peaks_South_Kibber_Spiti_Jun18_D72_7523.jpg",
+    "original": "5018x2823"
+  },
+  {
+    "id": "langza-buddha",
+    "usedOn": "destinations/kaza",
+    "place": "Langza village and its Buddha statue",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Langza_village_and_Buddha_statue.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "langza-monastery-cckn",
+    "usedOn": "destinations/kaza",
+    "place": "Langza monastery with Chau Chau Kang Nilda behind",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Langza_Monastery_with_Chau_Chau_Kang_Nilda_in_the_back_drop.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "langza-cckn-peak",
+    "usedOn": "itinerary",
+    "place": "Chau Chau Kang Nilda from Langza",
+    "note": null,
+    "author": "Avantikac98",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chau_Chau_Kang_Nilda_Peak_from_Langza%2C_Spiti_Valley.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "langza-star-trail",
+    "usedOn": "destinations/kaza",
+    "place": "Star trails over the Langza Buddha",
+    "note": null,
+    "author": "Rajarshi Mitra",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Star_trail_with_Buddha_Statue_from_Langza_%2848314765602%29.jpg",
+    "original": "5804x3762"
+  },
+  {
+    "id": "langza-valley-view",
+    "usedOn": null,
+    "place": "Looking down towards the Spiti valley from Langza",
+    "note": null,
+    "author": "Mike Shaw",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_towards_Spiti_Valley_from_Langza%2C_Himachal_Pradesh%2C_India.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "langza-shepherd",
+    "usedOn": "destinations/kaza",
+    "place": "A shepherd walking home, Langza",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shepherd_returning_home_in_Langza_village.jpg",
+    "original": "5040x2952"
+  },
+  {
+    "id": "langza-meadow",
+    "usedOn": "destinations/kaza",
+    "place": "High meadow at Langza",
+    "note": null,
+    "author": "Drawtheline",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Meadow%2C_Langza%2C_Spiti.jpg",
+    "original": "4032x3024"
+  },
+  {
+    "id": "hikkim-village",
+    "usedOn": "itinerary",
+    "place": "Hikkim village",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hikkim_Village.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "hikkim-to-komic",
+    "usedOn": "destinations/kaza",
+    "place": "Hikkim, on the road to Komik",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hikkim_village_on_the_way_to_Komic_village.jpg",
+    "original": "3264x2448"
+  },
+  {
+    "id": "hikkim-post-office",
+    "usedOn": "destinations/kaza",
+    "place": "The Hikkim post office",
+    "note": null,
+    "author": "Nrr1729",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hikkim_Post_Office.jpg",
+    "original": "4496x3000"
+  },
+  {
+    "id": "komic-tangyud",
+    "usedOn": "destinations/kaza",
+    "place": "Tangyud monastery, Komik",
+    "note": null,
+    "author": "Mike Shaw",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tangyud_Monastery%2C_Komic%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India_02.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "komic-prayer-flags",
+    "usedOn": "destinations/kaza",
+    "place": "Prayer flags above Tangyud monastery, Komik",
+    "note": null,
+    "author": "Mike Shaw",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prayer_flags_overlooking_Tangyud_Monastery%2C_Komic%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "komic-cckn-road",
+    "usedOn": "destinations/kaza",
+    "place": "Chau Chau Kang Nilda from the road out of Komik",
+    "note": null,
+    "author": "Sumita Roy Dutta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chau_Chau_Kang_Nilda%28CCKN%29_peak_of_Spiti_Himachal_Pradesh_from_Komic_village_to_Demul_Vllage.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "komic-window",
+    "usedOn": "destinations/kaza",
+    "place": "A window in Tangyud monastery, Komik",
+    "note": null,
+    "author": "Mike Shaw",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Window_in_Tangyud_Monastery%2C_Komic%2C_Spiti_Valley%2C_Himachal_Pradesh%2C_India_04.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "spiti-khurik-snow",
+    "usedOn": "new-year-escape",
+    "place": "Khurik, Spiti, on 26 December",
+    "note": "Khurik is a Spiti village near Kaza, photographed in late December.",
+    "author": "Ksuryawanshi",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20161226_Khurik_India.jpg",
+    "original": "3000x1500"
+  },
+  {
+    "id": "spiti-river-valley",
+    "usedOn": "booking",
+    "place": "The Spiti river valley",
+    "note": null,
+    "author": "Theo10011",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spiti_river-valley.jpg",
+    "original": "3264x2448"
+  },
+  {
+    "id": "spiti-river-view",
+    "usedOn": "the-odyssey",
+    "place": "The Spiti river and valley",
+    "note": null,
+    "author": "Rupak Sarkar",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Spiti_river_and_valley.jpg",
+    "original": "3888x2592"
+  },
+  {
+    "id": "spiti-mountains-pano",
+    "usedOn": "the-odyssey",
+    "place": "Spiti valley mountains",
+    "note": null,
+    "author": "Sudhanshu Gupta",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Spiti_Valley_Mountains.jpg",
+    "original": "4928x2247"
+  },
+  {
+    "id": "spiti-desert-mountains",
+    "usedOn": "the-odyssey",
+    "place": "Cold-desert mountains, Spiti",
+    "note": null,
+    "author": "Rollinghopes",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Desert_mountains_of_India.jpg",
+    "original": "4608x3456"
+  },
+  {
+    "id": "spiti-prayer-flags",
+    "usedOn": "experience",
+    "place": "Prayer flags against the Spiti sky",
+    "note": null,
+    "author": "Kandukuru Nagarjun",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prayer_flags_%2851874557725%29.jpg",
+    "original": "6000x3375"
+  },
+  {
+    "id": "spiti-yak-herders",
+    "usedOn": "gallery",
+    "place": "Herders with yaks in the Spiti high country",
+    "note": "Photographed in the wider Lahaul–Spiti high country, away from the road.",
+    "author": "Schwiki",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Herders_with_Yaks_Chota_Baldar_Spiti_Valley_Himachal_Pradesh_Schwiki.jpg",
+    "original": "4809x2706"
+  },
+  {
+    "id": "spiti-yak",
+    "usedOn": "experience",
+    "place": "A domestic yak, Pin valley",
+    "note": "The Pin valley branches off near Kaza; not a confirmed stop.",
+    "author": "Marsmux",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Domestic_Yak_at_Pin_Valley.jpg",
+    "original": "4377x2918"
+  },
+  {
+    "id": "rampur-padam-palace",
+    "usedOn": "destinations/rampur",
+    "place": "Padam Palace, Rampur Bushahr",
+    "note": null,
+    "author": "Vishvakk94",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Padam_Palace_Rampur_Bushahr.jpg",
+    "original": "4032x3024"
+  },
+  {
+    "id": "rampur-town-river",
+    "usedOn": null,
+    "place": "Rampur Bushahr on the Sutlej",
+    "note": null,
+    "author": "Harpreetsinghmohali",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rampur_Bushahr_City_Satluj_River.jpg",
+    "original": "4032x3024"
+  },
+  {
+    "id": "rampur-town-angle",
+    "usedOn": "destinations/rampur",
+    "place": "Rampur’s terraces above the Sutlej",
+    "note": null,
+    "author": "Harpreetsinghmohali",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rampur_Bushahr_City_Satluj_River_Angle3.jpg",
+    "original": "4032x3024"
+  },
+  {
+    "id": "rampur-shraikoti",
+    "usedOn": "gallery",
+    "place": "Shraikoti temple, Rampur Bushahr area",
+    "note": null,
+    "author": "Shimla Deities",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Shraikoti_Temple%2C_Rampur_Bushahr%2C_Himachal_Pradesh.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "rampur-lalsa",
+    "usedOn": "destinations/rampur",
+    "place": "Lalsa village, near Rampur Bushahr",
+    "note": null,
+    "author": "Shimla Deities",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Village_Lalsa%2C_Rampur_Bushahr%2C_Himachal_Pradesh.jpg",
+    "original": "5184x3456"
+  },
+  {
+    "id": "chandigarh-sukhna-sunrise",
+    "usedOn": "gallery",
+    "place": "Sunrise over Sukhna Lake, Chandigarh",
+    "note": null,
+    "author": "UnpetitproleX",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunrise_over_Sukhna.jpg",
+    "original": "2987x2221"
+  },
+  {
+    "id": "chandigarh-shivalik",
+    "usedOn": "stays",
+    "place": "The Shivalik hills from Sukhna Lake, Chandigarh",
+    "note": null,
+    "author": "UnpetitproleX",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shivalik_hills_from_Sukhna_Lake_in_Chandigarh%2C_India.jpg",
+    "original": "19735x3000"
+  },
+  {
+    "id": "snow-solang-valley",
+    "usedOn": "/",
+    "place": "Solang valley under deep winter snow, Kullu, Himachal Pradesh",
+    "note": "Solang is near Manali, not on this route; shown for the winter Himalayan setting.",
+    "author": "Bleezebub",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Solang_valley_under_snow,_2015.jpg",
+    "original": "6016x4000"
+  },
+  {
+    "id": "party-dance-lights",
+    "usedOn": null,
+    "place": "People dancing under party lights at night",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:People_dancing_at_night_with_lights,_Gili_Trawangan_(island),_Indonesia.jpg",
+    "original": "4032x2688"
+  },
+  {
+    "id": "party-apres-ski",
+    "usedOn": null,
+    "place": "Friends celebrating in the snow, Gerlos, Austria",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Everjean",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Après_ski_in_Gerlos,_Tyrol.jpg",
+    "original": "1280x960"
+  },
+  {
+    "id": "party-light-igloos",
+    "usedOn": null,
+    "place": "Glowing light domes against the night (long exposure)",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Fjermann",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Light_igloos.JPG",
+    "original": "5184x3456"
+  },
+  {
+    "id": "party-trance-dance",
+    "usedOn": "/",
+    "place": "Dancing under coloured lights at a night party",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Vyacheslav Argenberg",
+    "licence": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Psychedelic_trance_party,_Dancing,_Ashwem,_Goa,_India.jpg",
+    "original": "6728x4640"
+  },
+  {
+    "id": "bonfire-snow-firepit",
+    "usedOn": null,
+    "place": "A fire pit burning in the snow",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Thank you for visiting my page (Flickr)",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Campfire_time_(33448740970).jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "bonfire-snow-candle",
+    "usedOn": null,
+    "place": "A log fire burning in the snow at dusk",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Timo Newton-Syms",
+    "licence": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jätkänkynttilä_(5332127663).jpg",
+    "original": "1600x1200"
+  },
+  {
+    "id": "bonfire-sparks",
+    "usedOn": "/",
+    "place": "Sparks rising from a night fire",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "kallerna",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Campfire_and_sparks_in_Anttoora_1.jpg",
+    "original": "3700x2690"
+  },
+  {
+    "id": "bonfire-lohri",
+    "usedOn": null,
+    "place": "A winter bonfire night in north India (Lohri)",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Satish Krishnamurthy",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:A_bonfire_celebrating_Lohri_Makar_Sankranti_eve_Hindu_and_Sikh_festivals.jpg",
+    "original": "3210x2227"
+  },
+  {
+    "id": "bonfire-circle-night",
+    "usedOn": "/",
+    "place": "Friends gathered around a fire after dark",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "Hynek Janáč",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:People_sitting_around_a_camp_fire.jpg",
+    "original": "3024x4032"
+  },
+  {
+    "id": "lodge-lamps-snow",
+    "usedOn": null,
+    "place": "Warm lamps glowing in a cabin window on a snowy night",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "W.carter",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Three_lamps_on_a_veranda_in_Brastad_1.jpg",
+    "original": "4873x3307"
+  },
+  {
+    "id": "lodge-fireplace",
+    "usedOn": "/",
+    "place": "A warm mountain-lodge interior with a central fireplace",
+    "note": "Not one of the trip’s stays; shown for the warm-lodge atmosphere only.",
+    "author": "Minja Klarić",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snjezna_kuca_Rujiste_-_interior_with_fireplace_-_Bosnia_and_Herzegovina_(2026)-bs.jpg",
+    "original": "1350x1800"
+  },
+  {
+    "id": "dj-mixer-hands",
+    "usedOn": "/",
+    "place": "Hands on a DJ mixer under red lights",
+    "note": "Not the DJ travelling with the group; their identity will be announced by the organiser.",
+    "author": "PattayaPatrol",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DFC_5183_Hands-on_mixing_a_DJ_tweaks_levels_and_cues_glowing_controls_on_a_Pioneer_DJ_mixer_under_red_club_lights.jpg",
+    "original": "5568x3712"
+  },
+  {
+    "id": "dj-decks-blue",
+    "usedOn": "/",
+    "place": "A DJ mixer glowing blue",
+    "note": "Not the DJ’s actual equipment; shown for the music theme.",
+    "author": "Aurélien (Designatic)",
+    "licence": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pioneer_DJM900_Nexus_DJ_Mixer_tweaked_(2015-04-25_by_Aurélien)_pixabay.jpg",
+    "original": "6000x4000"
+  },
+  {
+    "id": "trek-sar-pass",
+    "usedOn": "/",
+    "place": "Trekkers crossing snow on the Sar Pass trek, Kullu, Himachal Pradesh",
+    "note": "A different Himachal trek, not part of this itinerary.",
+    "author": "J.M.Garg",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sar_Pass-_Struggling_trekkers_I_IMG_7200.jpg",
+    "original": "1000x667"
+  },
+  {
+    "id": "trek-snow-group",
+    "usedOn": "/",
+    "place": "A group walking across a snow-clad Himalayan slope",
+    "note": "Not on this itinerary; shown for the experience of walking on snow.",
+    "author": "Chandramohan B V",
+    "licence": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:India_Snow_Tourism.jpg",
+    "original": "2960x2048"
+  },
+  {
+    "id": "trek-kedarkantha-camps",
+    "usedOn": "/",
+    "place": "Trek camps at dusk below the Kedarkantha peak",
+    "note": "Uttarakhand, not on this route; camping is not a confirmed part of this trip.",
+    "author": "AmxxmA",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kedarkantha_camps_in_heaven.jpg",
+    "original": "2595x1212"
+  },
+  {
+    "id": "trek-kedarkantha-ridges",
+    "usedOn": "/",
+    "place": "Layered blue Himalayan ridges from the Kedarkantha trail, 30 December",
+    "note": "Uttarakhand, not on this route.",
+    "author": "Ghodki",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kedarkantha_3.jpg",
+    "original": "4608x3280"
+  },
+  {
+    "id": "snow-auli-slope",
+    "usedOn": "/",
+    "place": "Fresh snow on a Himalayan slope in early January",
+    "note": "Auli, Uttarakhand — not on this route.",
+    "author": "ArmouredCyborg",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Snow_at_Auli.jpg",
+    "original": "3264x2448"
+  },
+  {
+    "id": "snow-manali-ice",
+    "usedOn": "/",
+    "place": "Snowbound slopes near the Rohtang bypass above Manali",
+    "note": "Near Manali, not on this route.",
+    "author": "Praveenbansal10",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ice_covered_Hill_station-Manali.jpg",
+    "original": "3264x2448"
+  },
+  {
+    "id": "sunset-keylong",
+    "usedOn": "/",
+    "place": "Evening light on the peaks above Keylong, Lahaul",
+    "note": "Lahaul, the valley beside Spiti; not a stop on this route.",
+    "author": "Kiran Kulkarni",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Himayala_from_the_village_Keylong.jpg",
+    "original": "5472x3648"
+  },
+  {
+    "id": "night-star-trail-snow",
+    "usedOn": "/",
+    "place": "Star trails over snow peaks (Nepal Himalaya)",
+    "note": "Nepal, not on this route; shown for the winter night sky.",
+    "author": "Ummidnp",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Under_stars_and_snows.jpg",
+    "original": "8256x5504"
+  },
+  {
+    "id": "night-tents-peak",
+    "usedOn": "/",
+    "place": "Tents glowing beneath a snow peak at night (Pumori, Nepal)",
+    "note": "Not on this route; tented camps are not a confirmed part of this trip.",
+    "author": "Iamthanes",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lit_Tents_of_Seven_Summit_Treks_seen_at_Everest_Basecamp,_background_Pumori_mountain.jpg",
+    "original": "1280x854"
+  },
+  {
+    "id": "nye-fireworks-village",
+    "usedOn": "/",
+    "place": "Fireworks over a village on New Year’s Eve",
+    "note": "Germany. Fireworks are not a confirmed part of this event.",
+    "author": "Andreas Weith",
+    "licence": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Fireworks_on_New_Year's_Eve_in_a_small_Swabian_village_(1),_brightened.jpg",
+    "original": "6366x3581"
+  },
+  {
+    "id": "snow-night-lamps",
+    "usedOn": "/",
+    "place": "Snow lit by warm lamps on a winter night",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "James Ryen",
+    "licence": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Night_winter_lights_-_panoramio.jpg",
+    "original": "4752x3168"
+  },
+  {
+    "id": "snow-tree-lights",
+    "usedOn": "/",
+    "place": "Warm string lights on a snow-covered tree at night",
+    "note": "Illustrative of the mood, not a photograph of this event, its venue or its guests.",
+    "author": "epSos.de",
+    "licence": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Glowing_Christmas_Tree_Lights_in_the_Winter_Night.jpg",
+    "original": "4592x2576"
+  },
+  {
+    "id": "hilux-invincible",
+    "usedOn": null,
+    "place": "A Toyota Hilux pickup",
+    "note": "A representative Hilux photographed in the UK — not the vehicle confirmed for this trip.",
+    "author": "Oscar Taylor",
+    "licence": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_Invincible_X_-_geograph.org.uk_-_8282173.jpg",
+    "original": "5184x3888"
+  },
+  {
+    "id": "road-lahaul-winter",
+    "usedOn": "/",
+    "place": "Aerial view of the Lahaul valley in winter",
+    "note": "Lahaul, beside Spiti; not a stop on this route.",
+    "author": "Nvvchar",
+    "licence": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerail_view_of_Lahaul_valley_in_winter.JPG",
+    "original": "1544x1024"
+  },
+  {
+    "id": "starts-on-a-river-road",
+    "usedOn": "/",
+    "place": "A river road at first thaw",
+    "supplied": true,
+    "sourceFile": "Starts on a river road.jpeg",
+    "intendedSection": "Home · Leave the familiar behind — “This one starts on a river road.”",
+    "original": "1200x960",
+    "files": "public/assets/img/supplied/starts-on-a-river-road-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "cut-into-the-cliff-pointed-at-the-sky",
+    "usedOn": "/",
+    "place": "A hill town beneath a wall of snow peaks",
+    "supplied": true,
+    "sourceFile": "Cut into the Cliff, Painted at the Sky.jpeg",
+    "intendedSection": "Home · Leave the familiar behind — “Cut into the cliff. Pointed at the sky.”",
+    "original": "1920x1080",
+    "files": "public/assets/img/supplied/cut-into-the-cliff-pointed-at-the-sky-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "the-first-light-arises-before-the-sun-does",
+    "usedOn": "/",
+    "place": "Alpenglow over a snowbound valley",
+    "supplied": true,
+    "sourceFile": "The first light arises before the sun does.jpeg",
+    "intendedSection": "Home · The first light arrives before the sun does",
+    "original": "1080x721",
+    "files": "public/assets/img/supplied/the-first-light-arises-before-the-sun-does-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "snow-outside-party-mode-1",
+    "usedOn": "/",
+    "place": "Party mode — a crowd under festoon lights in the snow",
+    "supplied": true,
+    "sourceFile": "Snow Outside Party Mode 1.jpeg",
+    "intendedSection": "Home · Snow outside. Party mode on. (1 of 3)",
+    "original": "1200x1600",
+    "files": "public/assets/img/supplied/snow-outside-party-mode-1-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "snow-outside-party-mode-2",
+    "usedOn": "/",
+    "place": "Party mode — fire pits and string lights at dusk",
+    "supplied": true,
+    "sourceFile": "Snow Outside Party Mode 2.jpeg",
+    "intendedSection": "Home · Snow outside. Party mode on. (2 of 3)",
+    "original": "1000x1500",
+    "files": "public/assets/img/supplied/snow-outside-party-mode-2-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "snow-outside-party-mode-3",
+    "usedOn": "/",
+    "place": "Party mode — fireworks over a snowbound mountain town",
+    "supplied": true,
+    "sourceFile": "Snow Outside Party Mode 3.jpeg",
+    "intendedSection": "Home · Snow outside. Party mode on. (3 of 3)",
+    "original": "1200x1800",
+    "files": "public/assets/img/supplied/snow-outside-party-mode-3-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "your-journey-your-way-toyota-hilux",
+    "usedOn": "/",
+    "place": "A Toyota Hilux on a Himalayan valley road",
+    "supplied": true,
+    "sourceFile": "Your Journey, Your Way - A Toyota Hilux.jpeg",
+    "intendedSection": "Home · Transport — Your journey, your way",
+    "original": "1200x2133",
+    "files": "public/assets/img/supplied/your-journey-your-way-toyota-hilux-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "what-you-do-between-the-views",
+    "usedOn": "/",
+    "place": "Prayer flags beneath snow peaks",
+    "supplied": true,
+    "sourceFile": "What You Do Between the Views.jpeg",
+    "intendedSection": "Home · Beyond the landscape — What you do between the views",
+    "original": "1200x2133",
+    "files": "public/assets/img/supplied/what-you-do-between-the-views-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "monasteries",
+    "usedOn": "/",
+    "place": "A monastery on a rock spur, prayer flags in the wind",
+    "supplied": true,
+    "sourceFile": "Monasteries.jpeg",
+    "intendedSection": "Home · What you do between the views — Monasteries",
+    "original": "768x1344",
+    "files": "public/assets/img/supplied/monasteries-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "high-villages",
+    "usedOn": "/",
+    "place": "Village houses stacked on a hillside",
+    "supplied": true,
+    "sourceFile": "High Villages.jpeg",
+    "intendedSection": "Home · What you do between the views — High villages",
+    "original": "1200x1800",
+    "files": "public/assets/img/supplied/high-villages-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "photography",
+    "usedOn": "/",
+    "place": "Arms open on a snow ridge",
+    "supplied": true,
+    "sourceFile": "Photography.jpeg",
+    "intendedSection": "Home · What you do between the views — Photography",
+    "original": "1200x1600",
+    "files": "public/assets/img/supplied/photography-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "the-road-itself",
+    "usedOn": "/",
+    "place": "An empty road into the mountains",
+    "supplied": true,
+    "sourceFile": "The Road Itself.jpeg",
+    "intendedSection": "Home · What you do between the views — The road itself",
+    "original": "736x1104",
+    "files": "public/assets/img/supplied/the-road-itself-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "delhi",
+    "usedOn": "/",
+    "place": "Humayun’s Tomb, Delhi",
+    "supplied": true,
+    "sourceFile": "Delhi.jpeg",
+    "intendedSection": "Destination · Delhi (start and finish)",
+    "original": "1005x1799",
+    "files": "public/assets/img/supplied/delhi-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "kufri",
+    "usedOn": "/",
+    "place": "Kufri under snow",
+    "supplied": true,
+    "sourceFile": "Kufri.jpeg",
+    "intendedSection": "Destination · Kufri",
+    "original": "572x1024",
+    "files": "public/assets/img/supplied/kufri-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "kalpa",
+    "usedOn": "/",
+    "place": "Kalpa — temple eaves and the Kinnaur range",
+    "supplied": true,
+    "sourceFile": "Kalpa.jpeg",
+    "intendedSection": "Destination · Kalpa",
+    "original": "1200x2133",
+    "files": "public/assets/img/supplied/kalpa-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "kaza",
+    "usedOn": "/",
+    "place": "Prayer flags over Key Monastery in winter, near Kaza",
+    "supplied": true,
+    "sourceFile": "Kaza.jpeg",
+    "intendedSection": "Destination · Kaza",
+    "original": "1200x1500",
+    "files": "public/assets/img/supplied/kaza-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "rampur",
+    "usedOn": "/",
+    "place": "Rampur",
+    "supplied": true,
+    "sourceFile": "rampur.jpeg",
+    "intendedSection": "Destination · Rampur",
+    "original": "1200x1600",
+    "files": "public/assets/img/supplied/rampur-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "hyatt-centric",
+    "usedOn": "/",
+    "place": "Hyatt Centric",
+    "supplied": true,
+    "sourceFile": "Hyatt Centric.jpeg",
+    "intendedSection": "Stays · Delhi — Hyatt Centric",
+    "original": "1000x1500",
+    "files": "public/assets/img/supplied/hyatt-centric-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "fortune",
+    "usedOn": "/",
+    "place": "Fortune",
+    "supplied": true,
+    "sourceFile": "Fortune.jpeg",
+    "intendedSection": "Stays · Kufri — Fortune",
+    "original": "1000x1500",
+    "files": "public/assets/img/supplied/fortune-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "kinner-villa",
+    "usedOn": "/",
+    "place": "Kinner Villa",
+    "supplied": true,
+    "sourceFile": "Warm Rooms After Cold Roads 03 Kinner Villa.jpeg",
+    "intendedSection": "Stays · Kalpa — Kinner Villa (Warm rooms after cold roads, 03)",
+    "original": "900x500",
+    "files": "public/assets/img/supplied/kinner-villa-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "sakya-abode",
+    "usedOn": "/",
+    "place": "Sakya Abode",
+    "supplied": true,
+    "sourceFile": "Warm Rooms After Cold Roads 04 Sakya Abode.jpeg",
+    "intendedSection": "Stays · Kaza — Sakya Abode (Warm rooms after cold roads, 04)",
+    "original": "900x500",
+    "files": "public/assets/img/supplied/sakya-abode-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "dev-dhara",
+    "usedOn": "/",
+    "place": "Dev Dhara",
+    "supplied": true,
+    "sourceFile": "Warm Rooms After Cold Roads 05 Devdhara.jpeg",
+    "intendedSection": "Stays · Rampur — Dev Dhara (Warm rooms after cold roads, 05)",
+    "original": "1536x1026",
+    "files": "public/assets/img/supplied/dev-dhara-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "jw-marriott",
+    "usedOn": "/",
+    "place": "JW Marriott",
+    "supplied": true,
+    "sourceFile": "Warm Rooms After Cold Roads 06 JW Marriott.jpeg",
+    "intendedSection": "Stays · Chandigarh — JW Marriott (Warm rooms after cold roads, 06)",
+    "original": "2040x1535",
+    "files": "public/assets/img/supplied/jw-marriott-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "eight-days-01-delhi",
+    "usedOn": "/",
+    "place": "Qutub Minar, Delhi",
+    "supplied": true,
+    "sourceFile": "Eight Days in Order 01 Delhi.jpeg",
+    "intendedSection": "Home · Eight days, in order — 01 Delhi",
+    "original": "1152x2048",
+    "files": "public/assets/img/supplied/eight-days-01-delhi-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "eight-days-03-kufri-to-kalpa",
+    "usedOn": "/",
+    "place": "Kufri to Kalpa — temple courtyard",
+    "supplied": true,
+    "sourceFile": "eight. days in order kupri to kalpa jpeg.jpeg",
+    "intendedSection": "Home · Eight days, in order — 03 Kufri → Kalpa",
+    "original": "1152x2048",
+    "files": "public/assets/img/supplied/eight-days-03-kufri-to-kalpa-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "eight-days-04-kalpa-to-kaza",
+    "usedOn": "/",
+    "place": "Key Monastery in snow",
+    "supplied": true,
+    "sourceFile": "Eight Days in Order 04 Kalpa to Kaza.jpeg",
+    "intendedSection": "Home · Eight days, in order — 04 Kalpa → Kaza",
+    "original": "1200x1600",
+    "files": "public/assets/img/supplied/eight-days-04-kalpa-to-kaza-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "eight-days-06-kaza",
+    "usedOn": "/",
+    "place": "A snowfield below the peaks",
+    "supplied": true,
+    "sourceFile": "Eight Days in Order 06 Kaza.jpeg",
+    "intendedSection": "Home · Eight days, in order — 06 Kaza",
+    "original": "1080x1920",
+    "files": "public/assets/img/supplied/eight-days-06-kaza-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "eight-days-07-kaza-to-rampur",
+    "usedOn": "/",
+    "place": "Key Monastery at dusk",
+    "supplied": true,
+    "sourceFile": "Eight Days in Order 07 Kaza to Rampur.jpeg",
+    "intendedSection": "Home · Eight days, in order — 07 Kaza → Rampur",
+    "original": "736x1104",
+    "files": "public/assets/img/supplied/eight-days-07-kaza-to-rampur-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "eight-days-08-rampur-to-delhi",
+    "usedOn": "/",
+    "place": "Lotus Temple, Delhi",
+    "supplied": true,
+    "sourceFile": "Eight Days in Order 08 Rampur to Delhi.jpeg",
+    "intendedSection": "Home · Eight days, in order — 08 Rampur → Delhi",
+    "original": "1080x1920",
+    "files": "public/assets/img/supplied/eight-days-08-rampur-to-delhi-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "cold-mountains-warm-fires-wild-memories-1",
+    "usedOn": "/",
+    "place": "A fire pit in the snow",
+    "supplied": true,
+    "sourceFile": "Cold Mountains, Warm Fires, Wild Memories 1.jpeg",
+    "intendedSection": "Home · Cold mountains. Warm fires. Wild memories. (1 of 4)",
+    "original": "900x1200",
+    "files": "public/assets/img/supplied/cold-mountains-warm-fires-wild-memories-1-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "cold-mountains-warm-fires-wild-memories-2",
+    "usedOn": "/",
+    "place": "Warming hands at the fire",
+    "supplied": true,
+    "sourceFile": "Cold Mountains, Warm Fires, Wild Memories 2.jpeg",
+    "intendedSection": "Home · Cold mountains. Warm fires. Wild memories. (2 of 4)",
+    "original": "1200x1600",
+    "files": "public/assets/img/supplied/cold-mountains-warm-fires-wild-memories-2-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "cold-mountains-warm-fires-wild-memories-3",
+    "usedOn": "/",
+    "place": "A circle around the fire",
+    "supplied": true,
+    "sourceFile": "Cold Mountains, Warm Fires, Wild Memories 3.jpeg",
+    "intendedSection": "Home · Cold mountains. Warm fires. Wild memories. (3 of 4)",
+    "original": "1200x1600",
+    "files": "public/assets/img/supplied/cold-mountains-warm-fires-wild-memories-3-800|1600.(jpg|webp)"
+  },
+  {
+    "id": "cold-mountains-warm-fires-wild-memories-4",
+    "usedOn": "/",
+    "place": "Snowfall around the bonfire",
+    "supplied": true,
+    "sourceFile": "Cold_mountains__Warm_fires__Wild_memories__4.JPG",
+    "intendedSection": "Home · Cold mountains. Warm fires. Wild memories. (4 of 4)",
+    "original": "736x920",
+    "files": "public/assets/img/supplied/cold-mountains-warm-fires-wild-memories-4-800|1600.(jpg|webp)"
+  }
+]
